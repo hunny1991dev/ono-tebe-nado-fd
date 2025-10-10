@@ -1,1 +1,1 @@
-https://github.com/hunny1991dev/ono-tebe-nado-fd#
+https://github.com/hunny1991dev/ono-tebe-nado-fd
