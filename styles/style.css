@@ -25,10 +25,6 @@ a {
   list-style-type: none;
 }
 
-.header__link_active {
-  text-decoration: none;
-}
-
 .header__links-list {
   gap: 28px;
   display: flex;
