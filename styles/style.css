@@ -84,7 +84,7 @@ a {
   font-size: 100px;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 1);
-  margin: 165px 50px 207px 50px;
+  margin: 165px 50px 106px 50px;
 }
 
 .aligned-text {
@@ -117,7 +117,7 @@ a {
   position: relative;
   text-transform: uppercase;
   color: rgb(255, 255, 255, 1);
-  margin: -101px 50px 0px 50px;
+  margin: 0px 50px 0px 50px;
   justify-content: space-between;
 }
 
@@ -237,8 +237,8 @@ a {
   width: 240px;
   display: flex;
   height: 240px;
-  align-self: center;
-  margin-top: -238px;
+  align-self: start;
+  margin-top: 82px;
   align-items: center;
   justify-self: center;
   border-radius: 120px;
@@ -269,10 +269,6 @@ a {
   margin-left: 25px;
   line-height: 24.2px;
   flex-direction: column;
-}
-
-.about__column {
-  min-height: 449px;
 }
 
 .footer {
